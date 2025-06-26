@@ -20,7 +20,7 @@ app.get('/vehicles', (req, res) => {
 });
 
 // app.get('/news', (req, res) => {
-app.get('/serverGarage/data/news', (req, res) => {
+app.get('/serverGarage/data/news.js', (req, res) => {
   // res.send(newsData);
   res.redirect("https://volottnazarov.github.io/serverGarage/data/news.js")
 });
