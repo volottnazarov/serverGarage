@@ -19,7 +19,8 @@ app.get('/vehicles', (req, res) => {
   res.send(vehiclesData);
 });
 
-app.get('/news', (req, res) => {
+// app.get('/news', (req, res) => {
+app.get('/serverGarage/data/news', (req, res) => {
   // res.send(newsData);
   res.redirect("https://volottnazarov.github.io/serverGarage/data/news.js")
 });
