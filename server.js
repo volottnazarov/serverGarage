@@ -10,7 +10,7 @@ const vehiclesData = vehicles;
 const newsData = news;
 const mechanicsData = mechanics;
 const fuelNormsData = fuel;
-const urlNews = "https://volottnazarov.github.io/serverGarage/data/news.js";
+// const urlNews = "https://volottnazarov.github.io/serverGarage/data/news.js";
 
 // Сообщение о том, что сервер запущен и прослушивает указанный порт
 app.listen(port, () => console.log(`Listening on port ${port}`));
@@ -21,9 +21,8 @@ app.get('/vehicles', (req, res) => {
 });
 
 // app.get('/news', (req, res) => {
-app.get(urlNews, (req, res) => {
+app.get('/news', (req, res) => {
   res.send(newsData);
-  // res.redirect("https://volottnazarov.github.io/serverGarage/data/news.js")
 });
 
 app.get('/mechanics', (req, res) => {
