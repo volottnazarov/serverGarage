@@ -1,5 +1,5 @@
 ﻿
-export const news = [
+const news = [
     {
         title: 'Добро пожаловать',
         date: '2025-06-16',
