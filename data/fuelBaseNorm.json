@@ -1,4 +1,5 @@
-﻿export const fuel = [
+﻿{
+    "fuel" : [
     {
         "fuelNormGranta": 8.2,
         "fuelNormGaz": 15.2,
@@ -9,4 +10,5 @@
         "odometer150kmFuel": 0.1,
         "conditionFuel": 0.07
     }
-]
+    ]
+}
