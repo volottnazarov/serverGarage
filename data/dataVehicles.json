@@ -17,7 +17,7 @@
         "vinNumber": "XTA210940R1067770",
         "release": 2024,
         "garageNumber": 21,
-        "service": "АП"
+        "service": "ГЗ"
     },
     {
         "id": 3,
@@ -26,8 +26,8 @@
         "invNumber": "35632",
         "vinNumber": "XTA210910M0729056",
         "release": 2020,
-        "garageNumber": 0,
-        "service": "АП ГЗ"
+        "garageNumber": 16,
+        "service": "ГЗ"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "vinNumber": "XTA210910L0676731",
         "release": 2020,
         "garageNumber": 41,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "vinNumber": "XTA210910K0632524",
         "release": 2019,
         "garageNumber": 33,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "vinNumber": "XTA219010K06322616",
         "release": 2019,
         "garageNumber": 22,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 7,
@@ -67,37 +67,7 @@
         "vinNumber": "XTA219010J0550285",
         "release": 2018,
         "garageNumber": 28,
-        "service": "АП ГЗ"
-    },
-    {
-        "id": 8,
-        "model": "Гранта-219010",
-        "gosNumber": 6057,
-        "invNumber": "35218",
-        "vinNumber": "XTA219010G0405022",
-        "release": 2016,
-        "garageNumber": 27,
-        "service": "АП ГЗ"
-    },
-    {
-        "id": 9,
-        "model": "Гранта-219060",
-        "gosNumber": 6058,
-        "invNumber": "35167",
-        "vinNumber": "XTA219060F0339919",
-        "release": 2015,
-        "garageNumber": 0,
-        "service": "АП ГЗ"
-    },
-    {
-        "id": 10,
-        "model": "Гранта-219060",
-        "gosNumber": 6059,
-        "invNumber": "35180",
-        "vinNumber": "XTA219060F0342214",
-        "release": 2015,
-        "garageNumber": 19,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 11,
@@ -107,7 +77,7 @@
         "vinNumber": "XTA219040R1068273",
         "release": 2024,
         "garageNumber": 25,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 12,
@@ -117,7 +87,7 @@
         "vinNumber": "XTA219040R1067881",
         "release": 2024,
         "garageNumber": 10,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 13,
@@ -127,7 +97,7 @@
         "vinNumber": "XTA219040N0837219",
         "release": 2022,
         "garageNumber": 32,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 14,
@@ -137,7 +107,7 @@
         "vinNumber": "XTA219040R0996444",
         "release": 2023,
         "garageNumber": 14,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 15,
@@ -147,7 +117,7 @@
         "vinNumber": "XTA219040R0984126",
         "release": 2023,
         "garageNumber": 39,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },{
         "id": 16,
         "model": "Гранта-219040",
@@ -156,7 +126,7 @@
         "vinNumber": "XTA219040R0984008",
         "release": 2023,
         "garageNumber": 35,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 17,
@@ -166,7 +136,7 @@
         "vinNumber": "XTA219040R0983861",
         "release": 2023,
         "garageNumber": 36,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 18,
@@ -176,7 +146,7 @@
         "vinNumber": "XTA219040R0995961",
         "release": 2023,
         "garageNumber": 37,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 19,
@@ -186,7 +156,7 @@
         "vinNumber": "XTA219040R0984108",
         "release": 2023,
         "garageNumber": 23,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 20,
@@ -195,8 +165,8 @@
         "invNumber": "0233",
         "vinNumber": "XTA219040R0983625",
         "release": 2023,
-        "garageNumber": 24,
-        "service": "АП ГЗ"
+        "garageNumber": 27,
+        "service": "ГЗ"
     },
     {
         "id": 21,
@@ -206,7 +176,7 @@
         "vinNumber": "XTA219040R1068140",
         "release": 2024,
         "garageNumber": 20,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
     },
     {
         "id": 23,
@@ -216,7 +186,7 @@
         "vinNumber": "XTA219040R0983789",
         "release": 2023,
         "garageNumber": 38,
-        "service": "ГОСДНП"
+        "service": "ПС"
     },
     {
         "id": 24,
@@ -226,7 +196,7 @@
         "vinNumber": "XTA219040R1068186",
         "release": 2024,
         "garageNumber": 26,
-        "service": "ГОСДНП"
+        "service": "ГЗ"
     },
     {
         "id": 26,
@@ -235,8 +205,8 @@
         "invNumber": "0113",
         "vinNumber": "XTA219040R0984123",
         "release": 2023,
-        "garageNumber": 34,
-        "service": "АП ГЗ"
+        "garageNumber": 40,
+        "service": "ГЗ"
     },
     {
         "id": 27,
@@ -246,7 +216,127 @@
         "vinNumber": "XTA219040R1068186",
         "release": 2024,
         "garageNumber": 30,
-        "service": "АП ГЗ"
+        "service": "ГЗ"
+    },
+    {
+        "id": 28,
+        "model": "Гранта-219040",
+        "gosNumber": 6267,
+        "invNumber": "0192",
+        "vinNumber": "",
+        "release": 2023,
+        "garageNumber": 34,
+        "service": "ПС"
+    },
+    {
+        "id": 29,
+        "model": "Гранта-219040",
+        "gosNumber": 6109,
+        "invNumber": "0327",
+        "vinNumber": "",
+        "release": 2024,
+        "garageNumber": 24,
+        "service": "ГЗ"
+    },
+    {
+        "id": 30,
+        "model": "Гранта-219040",
+        "gosNumber": 6108,
+        "invNumber": "0324",
+        "vinNumber": "",
+        "release": 2024,
+        "garageNumber": 19,
+        "service": "ГЗ"
+    },
+    {
+        "id": 31,
+        "model": "Гранта-219040",
+        "gosNumber": 6701,
+        "invNumber": "0310",
+        "vinNumber": "",
+        "release": 2024,
+        "garageNumber": 18,
+        "service": "ГЗ"
+    },
+    {
+        "id": 32,
+        "model": "Гранта-219040",
+        "gosNumber": 6268,
+        "invNumber": "0178",
+        "vinNumber": "",
+        "release": 2023,
+        "garageNumber": 17,
+        "service": "ГЗ"
+    },
+    {
+        "id": 33,
+        "model": "Москвич-3",
+        "gosNumber": 6245,
+        "invNumber": "0447",
+        "vinNumber": "",
+        "release": 2024,
+        "garageNumber": 12,
+        "service": "ГОСДНП"
+    },
+    {
+        "id": 34,
+        "model": "Москвич-3",
+        "gosNumber": 6241,
+        "invNumber": "0443",
+        "vinNumber": "",
+        "release": 2024,
+        "garageNumber": 11,
+        "service": "ГЗ"
+    },
+    {
+        "id": 35,
+        "model": "Москвич-3",
+        "gosNumber": 6068,
+        "invNumber": "0442",
+        "vinNumber": "",
+        "release": 2024,
+        "garageNumber": 8,
+        "service": "НО"
+    },
+    {
+        "id": 36,
+        "model": "Москвич-3",
+        "gosNumber": 6242,
+        "invNumber": "0444",
+        "vinNumber": "XTA219040R1068186",
+        "release": 2024,
+        "garageNumber": 6,
+        "service": "ГЗ"
+    },
+    {
+        "id": 37,
+        "model": "Москвич-3",
+        "gosNumber": 6244,
+        "invNumber": "0446",
+        "vinNumber": "",
+        "release": 2024,
+        "garageNumber": 5,
+        "service": "АП"
+    },
+    {
+        "id": 38,
+        "model": "Москвич-3",
+        "gosNumber": 6243,
+        "invNumber": "0445",
+        "vinNumber": "XTA219040R1068186",
+        "release": 2024,
+        "garageNumber": 4,
+        "service": "ГЗ"
+    },
+    {
+        "id": 39,
+        "model": "Москвич-3",
+        "gosNumber": 6071,
+        "invNumber": "0448",
+        "vinNumber": "XTA219040R1068186",
+        "release": 2024,
+        "garageNumber": 3,
+        "service": "ГОСДНП"
     }
 ]
 }
